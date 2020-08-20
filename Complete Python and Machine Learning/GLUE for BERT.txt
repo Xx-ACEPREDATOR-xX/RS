@@ -1,0 +1,5 @@
+GLUE score 80.5% is
+The General Language Understanding Evaluation benchmark (GLUE) is a collection of datasets used for training, evaluating, 
+and analyzing NLP models relative to one another, with the goal of driving “research in the development of general 
+and robust natural language understanding systems.” The collection consists of nine “difficult and diverse” task datasets 
+designed to test a model’s language understanding, and is crucial to understanding how transfer learning models like BERT are evaluated.
