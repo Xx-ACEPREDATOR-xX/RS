@@ -1,0 +1,5 @@
+code worked when installing pyforest is
+
+easy_install pip
+python -m pip install -U pyforest --user
+python -m pip install -U pygame --user

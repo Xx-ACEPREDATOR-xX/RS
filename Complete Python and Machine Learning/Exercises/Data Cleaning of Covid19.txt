@@ -1,0 +1,14 @@
+sns.set_style('whitegrid')
+sns.countplot(x='Cumulative_number_for_14_days_of_COVID-19_cases_per_100000',data=df)
+plt.show()
+
+
+
+sns.set_style('whitegrid')
+sns.countplot(x='popData2019',data=df,color='green')
+
+
+
+sns.set_style('whitegrid')
+sns.countplot(x='geoId',y='countryterritoryCode',data=df,color='yellow')
+
